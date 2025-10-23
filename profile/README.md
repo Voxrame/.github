@@ -13,7 +13,7 @@ that streamline game creation for the Luanti (formerly Minetest) ecosystem.
 - 🏗️ Reusable mod framework
 - ⚙️ Standalone modules and libraries
 - 🔧 Development tools and utilities
-- 🎮 Production-tested components from Lord of the Redstone
+- 🎮 Production-tested components from [Lord Team](https://github.com/lord-server/lord)
 
 *Building immersive voxel adventures.*
 
