@@ -3,7 +3,7 @@
 [![Donate: Boosty](https://img.shields.io/badge/Donate-Boosty-f15f2c?style=for-the-badge)](https://boosty.to/lord-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-444?style=for-the-badge)](./license.md)
 
-**Voxrame - Voxel Framework for Luanti Engine** - A comprehensive, modular, game agnostic toolkit designed for creating immersive voxel games on Lunti Engine.
+**Voxrame - Voxel Framework for Luanti Engine** - A comprehensive, modular, game agnostic toolkit designed for creating immersive voxel games on Luanti Engine.
 
 Born as part of "[Lord Game](https://lord-server.ru)",
 Voxrame provides a curated collection of independent mod modules, libraries, and development utilities
